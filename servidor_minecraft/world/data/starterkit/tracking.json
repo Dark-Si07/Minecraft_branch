@@ -1,0 +1,18 @@
+{
+  "singleplayer": {
+    "world emoland": true
+  },
+  "multiplayer": {
+    "e942f0e3-b7fe-3c5e-bb2b-e34a8d3e443c": true,
+    "2caa93e3-2a59-365d-8cad-be900443feca": true,
+    "c7eccf5d-4f99-4954-bfc4-013e053d2cc4": true,
+    "32e6493a-7463-3f20-a543-18adb5f3484a": true,
+    "6911c929-b8a8-366d-a097-1145db694a90": true,
+    "775f230e-779b-3b9f-9fef-2594e7a1f29b": true,
+    "d798733b-db80-326f-bbb2-89da59e7c590": true,
+    "4726a0f5-5da2-3d1d-a301-09d536cc4dbf": true,
+    "e730a1af-7c02-3574-80b0-95172e6f2381": true,
+    "52663e9a-2460-362f-a5eb-ea99cb0d00e1": true,
+    "2d1d683c-926f-38f0-9119-63fa526fac78": true
+  }
+}

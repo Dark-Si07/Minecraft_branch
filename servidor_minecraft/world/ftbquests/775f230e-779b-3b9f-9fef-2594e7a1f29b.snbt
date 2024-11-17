@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "775f230e779b3b9f9fef2594e7a1f29b"
+	name: "ForeverOne"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

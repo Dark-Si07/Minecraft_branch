@@ -1,0 +1,67 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "DarlingXY07",
+      "uniqueId": "32e6493a-7463-3f20-a543-18adb5f3484a"
+    },
+    "time": 1730917193450,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/VKOFDzblO2"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DarlingXY07",
+      "uniqueId": "32e6493a-7463-3f20-a543-18adb5f3484a"
+    },
+    "time": 1730915307395,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/OmA3oyQQUB"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DarlingXY07",
+      "uniqueId": "32e6493a-7463-3f20-a543-18adb5f3484a"
+    },
+    "time": 1730832508943,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/LtoXuG0Kjv"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DarlingXY07",
+      "uniqueId": "32e6493a-7463-3f20-a543-18adb5f3484a"
+    },
+    "time": 1730829674982,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/JnAJng3fYa"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DarlingXY07",
+      "uniqueId": "32e6493a-7463-3f20-a543-18adb5f3484a"
+    },
+    "time": 1730828786777,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/0TSwJc795e"
+    }
+  }
+]

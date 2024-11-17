@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d798733bdb80326fbbb289da59e7c590"
+	name: "Nougar"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

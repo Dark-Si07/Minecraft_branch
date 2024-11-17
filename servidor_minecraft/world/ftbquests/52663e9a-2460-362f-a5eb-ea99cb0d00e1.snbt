@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "52663e9a2460362fa5ebea99cb0d00e1"
+	name: "KingMcc"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

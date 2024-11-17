@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "32e6493a74633f20a54318adb5f3484a"
+	name: "DarlingXY07"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

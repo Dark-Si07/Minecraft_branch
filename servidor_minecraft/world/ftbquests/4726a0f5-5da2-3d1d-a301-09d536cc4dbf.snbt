@@ -1,0 +1,16 @@
+{
+	version: 1
+	uuid: "4726a0f55da23d1da30109d536cc4dbf"
+	name: "Herbyx_x"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: {
+		4726a0f55da23d1da30109d536cc4dbf: {
+			pinned_quests: ["0000000000000001"]
+		}
+	}
+}

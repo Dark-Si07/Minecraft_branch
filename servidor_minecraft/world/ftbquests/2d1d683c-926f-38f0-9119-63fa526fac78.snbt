@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "2d1d683c926f38f0911963fa526fac78"
+	name: "epikku_"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

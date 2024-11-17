@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "6911c929b8a8366da0971145db694a90"
+	name: "tgodbescraft"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "e730a1af7c02357480b095172e6f2381"
+	name: "yastgutdwiiys"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

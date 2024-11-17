@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "e942f0e3b7fe3c5ebb2be34a8d3e443c"
+	name: "Zigleer"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

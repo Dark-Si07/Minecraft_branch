@@ -1,0 +1,133 @@
+===================================================================
+minecraft:crafting recipe conflicts (32)
+===================================================================
+
+1: sophisticatedstorage:basic_to_iron_tier_upgrade, sophisticatedstorage:copper_to_iron_tier_upgrade
+
+2: quark:building/crafting/compressed/potato_crate, farmersdelight:potato_crate
+
+3: quark:building/crafting/furnaces/cobblestone_furnace, quark:building/crafting/furnaces/deepslate_furnace
+
+4: quark:building/crafting/compressed/charcoal_block, mekanism:storage_blocks/charcoal
+
+5: hmag:diamond_fragment, inventorypets:nugget_diamond
+
+6: epicsamurai:steel_block, mekanism:storage_blocks/steel
+
+7: quark:building/crafting/compressed/charcoal_block_uncompress, mekanism:charcoal
+
+8: quark:tweaks/crafting/dirty_glass, quark:tweaks/crafting/white_glass
+
+9: extradisks:part/1024k_storage_part, extrastorage:part/storagepart_1024k
+
+10: extradisks:part/16384k_fluid_storage_part, extrastorage:part/storagepart_16384k_fluid
+
+11: mekanism:nuggets/steel, epicsamurai:steel_nugget
+
+12: quark:tweaks/crafting/utility/chests/mixed_chest_wood, quark:tweaks/crafting/utility/chests/oak_chest_wood
+
+13: biomesoplenty:cut_orange_sandstone_slab, biomesoplenty:orange_sandstone_slab
+
+14: minecraft:end_crystal, hmag:end_crystal_from_ender_plasm
+
+15: monsters_and_girls:puffsticks, minecraft:stick
+
+16: hmag:arrow, minecraft:arrow
+
+17: securitycraft:reinforced_deepslate_bricks, securitycraft:reinforced_deepslate_tiles
+
+18: extradisks:part/4096k_storage_part, extrastorage:part/storagepart_4096k
+
+19: minecraft:cake, farmersdelight:cake_from_milk_bottle
+
+20: extradisks:part/65536k_fluid_storage_part, extrastorage:part/storagepart_65536k_fluid
+
+21: monsters_and_girls:snowball_button_recipe, monsters_and_girls:snowball_planks_recipe
+
+22: extradisks:part/16384k_storage_part, extrastorage:part/storagepart_16384k
+
+23: biomesoplenty:black_sandstone_slab, biomesoplenty:cut_black_sandstone_slab
+
+24: mekanism:processing/steel/ingot/from_nuggets, epicsamurai:steel_ingot_from_nugget
+
+25: quark:building/crafting/compressed/carrot_crate, farmersdelight:carrot_crate
+
+26: farmersdelight:beetroot_crate, quark:building/crafting/compressed/beetroot_crate
+
+27: extradisks:part/256k_storage_part, extrastorage:part/storagepart_256k
+
+28: quark:building/crafting/chests/mixed_chest, quark:building/crafting/chests/oak_chest
+
+29: casinocraft:cardtable_base_pink, casinocraft:cardtable_base_purple
+
+30: hmag:emerald_fragment, inventorypets:nugget_emerald
+
+31: biomesoplenty:cut_white_sandstone_slab, biomesoplenty:white_sandstone_slab
+
+32: extradisks:part/262144k_fluid_storage_part, extrastorage:part/storagepart_262144k_fluid
+
+Skipped special recipes: 
+minecraft:armor_dye
+sophisticatedbackpacks:backpack_dye
+minecraft:banner_duplicate
+mekanismtools:banner_shield
+sophisticatedstorage:barrel_material
+mekanism:bin_extract
+mekanism:bin_insert
+minecraft:book_cloning
+pipez:clear_upgrade
+pipez:copy_upgrade_advanced
+pipez:copy_upgrade_basic
+pipez:copy_upgrade_improved
+pipez:copy_upgrade_infinity
+pipez:copy_upgrade_ultimate
+refinedstorage:cover
+uteamcore:custom_dyeable_item
+minecraft:decorated_pot
+cgm:dye_item
+quark:dye_item
+constructionwand:dynamic/wand_upgrade
+minecraft:firework_rocket
+minecraft:firework_star
+minecraft:firework_star_fade
+aquaculture:fish_fillet
+sophisticatedstorage:flat_top_barrel_toggle
+minecraft:food_serving
+functionalstorage:framed
+refinedstorage:hollow_cover
+minecraft:limited_use_keycards
+minecraft:map_cloning
+alexsmobs:mimicream_repair_recipe
+minecraft:repair_item
+minecraft:shield_decoration
+minecraft:shulker_box_coloring
+sophisticatedstorage:storage_dye
+minecraft:suspicious_stew
+hmag:suspicious_stew_upgrade
+minecraft:tipped_arrow
+quark:tweaks/crafting/elytra_duplication
+quark:tweaks/crafting/slab_to_block
+sophisticatedcore:upgrade_clear
+
+===================================================================
+minecraft:smelting recipe conflicts (2)
+===================================================================
+
+1: mysticalagradditions:end_inferium_smelted, mysticalagriculture:inferium_essence_smelted, mysticalagradditions:nether_inferium_smelted
+
+2: mysticalagradditions:end_prosperity_shard_smelted, mysticalagriculture:prosperity_shard_smelted
+
+===================================================================
+minecraft:blasting recipe conflicts (0)
+===================================================================
+
+===================================================================
+minecraft:smoking recipe conflicts (0)
+===================================================================
+
+===================================================================
+minecraft:smithing recipe conflicts (1)
+===================================================================
+
+1: hmag:enchantment_upgrade, hmag:remove_curse, apotheosis:socketing
+
