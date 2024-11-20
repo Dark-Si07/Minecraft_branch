@@ -9,7 +9,7 @@
 	properties: {
 		"ftbteams:display_name": "emones"
 		"ftbteams:description": ""
-		"ftbteams:color": "#59A6FF"
+		"ftbteams:color": "#7EFF59"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
@@ -28,6 +28,7 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1731116250102L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"DarlingXY07\"}]}" }
 		{ from: "32e6493a-7463-3f20-a543-18adb5f3484a", date: 1731116250116L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"xMrSpooky\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1731116253047L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"xMrSpooky\"}]}" }
+		{ from: "32e6493a-7463-3f20-a543-18adb5f3484a", date: 1731977041810L, text: "{\"text\":\"A\"}" }
 	]
 	extra: { }
 }

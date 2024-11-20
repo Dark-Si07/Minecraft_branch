@@ -152,15 +152,33 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-11-18 22:41:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-11-07 01:41:27 +0000"
     },
     "done": true
   },
+  "compactmachines:claimed_machine_max": {
+    "criteria": {
+      "claimed_machine": "2024-11-18 23:07:00 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2024-11-07 01:44:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2024-11-18 22:56:25 +0000"
     },
     "done": true
   },
@@ -221,6 +239,18 @@
     },
     "done": true
   },
+  "inventorypets:meta": {
+    "criteria": {
+      "crafting_table": "2024-11-18 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2024-11-19 16:05:20 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2024-11-03 22:19:55 +0000"
@@ -263,9 +293,33 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/hummingbird_feeder": {
+    "criteria": {
+      "hummingbird_feeder": "2024-11-19 00:35:25 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:not_enough_shielding": {
+    "criteria": {
+      "shields": "2024-11-19 16:20:34 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2024-11-19 01:21:16 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mushroom_house": {
     "criteria": {
       "location0": "2024-11-04 01:15:30 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_items": {
+    "criteria": {
+      "storage_disk_in_inventory": "2024-11-19 00:40:48 +0000"
     },
     "done": true
   },
@@ -278,6 +332,18 @@
   "casinocraft:recipes/decorations/wool_red": {
     "criteria": {
       "has_wool": "2024-11-07 01:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-11-18 22:23:47 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:you_da_bomby": {
+    "criteria": {
+      "tamed_creeper_minion": "2024-11-18 23:12:19 +0000"
     },
     "done": true
   },
@@ -322,9 +388,12 @@
       "wooded_scrubland": "2024-11-07 03:36:14 +0000",
       "field": "2024-11-11 04:56:13 +0000",
       "mediterranean_forest": "2024-11-07 01:04:51 +0000",
+      "coniferous_forest": "2024-11-19 00:49:59 +0000",
       "spider_nest": "2024-11-11 04:47:39 +0000",
       "lush_desert": "2024-11-07 04:00:55 +0000",
+      "seasonal_orchard": "2024-11-19 00:50:22 +0000",
       "rocky_rainforest": "2024-11-04 21:20:26 +0000",
+      "fir_clearing": "2024-11-19 00:50:17 +0000",
       "grassland": "2024-11-11 04:54:56 +0000",
       "undergrowth": "2024-11-11 04:21:59 +0000",
       "rainforest": "2024-11-04 21:21:26 +0000"
@@ -379,6 +448,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_familiar_receptacle": "2024-11-18 22:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-11-07 02:53:51 +0000"
@@ -397,6 +472,12 @@
     },
     "done": true
   },
+  "dimstorage:dimensional_chest": {
+    "criteria": {
+      "inv_changed": "2024-11-19 16:43:40 +0000"
+    },
+    "done": true
+  },
   "flower_foxes:flowerfoxes": {
     "criteria": {
       "flowerfoxes": "2024-11-03 22:19:55 +0000"
@@ -412,6 +493,19 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2024-11-04 22:01:51 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:hulk_smash": {
+    "criteria": {
+      "hammer_in_offhand": "2024-11-18 23:12:31 +0000",
+      "hammer_in_mainhand": "2024-11-18 23:12:31 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:blaze": {
+    "criteria": {
+      "crafting_table": "2024-11-18 23:40:38 +0000"
     },
     "done": true
   },
@@ -481,9 +575,12 @@
       "minecraft:blaze": "2024-11-11 04:23:04 +0000",
       "minecraft:pillager": "2024-11-11 03:58:44 +0000",
       "minecraft:skeleton": "2024-11-04 21:06:54 +0000",
+      "minecraft:ghast": "2024-11-18 22:25:06 +0000",
       "minecraft:vindicator": "2024-11-11 04:03:27 +0000",
+      "minecraft:magma_cube": "2024-11-18 22:28:16 +0000",
       "minecraft:spider": "2024-11-04 01:03:34 +0000",
       "minecraft:creeper": "2024-11-04 22:50:17 +0000",
+      "minecraft:wither": "2024-11-18 22:41:58 +0000",
       "minecraft:phantom": "2024-11-09 00:03:16 +0000",
       "minecraft:zombified_piglin": "2024-11-08 23:50:08 +0000",
       "minecraft:witch": "2024-11-07 04:00:57 +0000",
@@ -522,6 +619,24 @@
     },
     "done": true
   },
+  "mekanism:item_transport": {
+    "criteria": {
+      "basic_logistical_transporter": "2024-11-19 16:40:20 +0000"
+    },
+    "done": true
+  },
+  "mekanism:injection_chamber": {
+    "criteria": {
+      "chemical_injection_chamber": "2024-11-19 16:20:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2024-11-18 22:59:44 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-03 22:19:55 +0000"
@@ -531,6 +646,12 @@
   "apotheosis:affix/rare_gem": {
     "criteria": {
       "gem": "2024-11-04 01:16:22 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2024-11-18 23:23:45 +0000"
     },
     "done": true
   },
@@ -561,6 +682,12 @@
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2024-11-03 22:19:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2024-11-18 22:59:44 +0000"
     },
     "done": true
   },
@@ -679,9 +806,27 @@
     },
     "done": true
   },
+  "inventorypets:enderman": {
+    "criteria": {
+      "crafting_table": "2024-11-18 23:42:08 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-03 22:19:55 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:pixie": {
+    "criteria": {
+      "crafting_table": "2024-11-18 23:02:20 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:use_meta": {
+    "criteria": {
+      "example": "2024-11-18 23:42:08 +0000"
     },
     "done": true
   },
@@ -745,6 +890,12 @@
     },
     "done": true
   },
+  "inventorypets:illuminati": {
+    "criteria": {
+      "crafting_table": "2024-11-18 23:48:46 +0000"
+    },
+    "done": true
+  },
   "apotheosis:spawner/capturing": {
     "criteria": {
       "egg": "2024-11-04 00:58:50 +0000"
@@ -787,9 +938,21 @@
     },
     "done": true
   },
+  "inventorypets:5": {
+    "criteria": {
+      "example": "2024-11-18 23:42:08 +0000"
+    },
+    "done": true
+  },
   "inventorypets:1": {
     "criteria": {
       "example": "2024-11-04 20:24:03 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:slime": {
+    "criteria": {
+      "crafting_table": "2024-11-19 00:38:19 +0000"
     },
     "done": true
   },
@@ -838,6 +1001,12 @@
   "advancednetherite:nether/obtain_netherite_iron_ingot": {
     "criteria": {
       "netherite_iron_ingot": "2024-11-11 04:29:07 +0000"
+    },
+    "done": true
+  },
+  "compactmachines:got_shrinking_device": {
+    "criteria": {
+      "obtained_psd": "2024-11-18 23:06:54 +0000"
     },
     "done": true
   },
@@ -925,9 +1094,27 @@
     },
     "done": true
   },
+  "dimstorage:root": {
+    "criteria": {
+      "inv_changed": "2024-11-19 16:43:22 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:nether/netherite_diamond_armor": {
     "criteria": {
       "netherite_diamond_armor": "2024-11-11 04:31:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2024-11-18 22:26:24 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:heart": {
+    "criteria": {
+      "crafting_table": "2024-11-18 23:42:35 +0000"
     },
     "done": true
   },
@@ -970,6 +1157,12 @@
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2024-11-03 22:19:55 +0000"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2024-11-19 02:06:54 +0000"
     },
     "done": true
   },
@@ -1028,6 +1221,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-11-18 23:13:46 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-03 22:19:55 +0000"
@@ -1064,6 +1263,18 @@
     },
     "done": true
   },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2024-11-18 22:18:36 +0000"
+    },
+    "done": true
+  },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2024-11-19 16:32:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-11-11 04:57:11 +0000",
@@ -1090,6 +1301,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-03 22:19:55 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2024-11-18 22:56:26 +0000"
     },
     "done": true
   },
@@ -1127,6 +1344,18 @@
   "tombstone:adventure/easy_opening": {
     "criteria": {
       "coded_trigger": "2024-11-04 20:14:16 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2024-11-19 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2024-11-19 16:05:13 +0000"
     },
     "done": true
   },
@@ -1173,6 +1402,12 @@
     },
     "done": true
   },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2024-11-19 01:16:44 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-03 22:19:55 +0000"
@@ -1197,6 +1432,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-11-19 00:55:59 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-03 22:19:55 +0000"
@@ -1212,6 +1453,12 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2024-11-07 01:53:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-11-19 00:28:30 +0000"
     },
     "done": true
   },
@@ -1240,9 +1487,21 @@
     },
     "done": false
   },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2024-11-19 16:24:19 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-03 22:19:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-11-19 00:52:42 +0000"
     },
     "done": true
   },

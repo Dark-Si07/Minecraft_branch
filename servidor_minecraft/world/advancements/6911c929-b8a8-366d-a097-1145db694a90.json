@@ -162,9 +162,21 @@
     },
     "done": true
   },
+  "inventorypets:illuminati": {
+    "criteria": {
+      "crafting_table": "2024-11-18 23:38:04 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2024-11-04 23:46:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2024-11-18 22:45:20 +0000"
     },
     "done": true
   },
@@ -183,6 +195,12 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2024-11-04 04:15:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-11-18 23:48:50 +0000"
     },
     "done": true
   },
@@ -247,7 +265,8 @@
       "baked_potato": "2024-11-11 03:00:52 +0000",
       "apple": "2024-11-11 02:43:02 +0000",
       "bread": "2024-11-04 21:49:21 +0000",
-      "golden_apple": "2024-11-11 02:59:56 +0000"
+      "golden_apple": "2024-11-11 02:59:56 +0000",
+      "rotten_flesh": "2024-11-18 22:34:22 +0000"
     },
     "done": false
   },
@@ -353,6 +372,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2024-11-18 23:31:03 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-04 04:15:45 +0000"
@@ -395,9 +420,21 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-11-18 22:28:52 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2024-11-04 04:15:45 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/wool_red": {
+    "criteria": {
+      "has_wool": "2024-11-18 23:31:33 +0000"
     },
     "done": true
   },
@@ -493,14 +530,21 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "woodland": "2024-11-04 21:50:28 +0000"
+      "woodland": "2024-11-04 21:50:28 +0000",
+      "scrubland": "2024-11-18 23:00:41 +0000",
+      "old_growth_woodland": "2024-11-18 22:26:06 +0000",
+      "mediterranean_forest": "2024-11-18 22:44:58 +0000",
+      "spider_nest": "2024-11-18 22:33:05 +0000"
     },
     "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-11-18 23:47:57 +0000",
       "minecraft:beach": "2024-11-04 21:50:06 +0000",
+      "minecraft:river": "2024-11-18 22:26:04 +0000",
       "minecraft:forest": "2024-11-04 04:15:47 +0000",
+      "minecraft:ocean": "2024-11-18 23:47:37 +0000",
       "minecraft:savanna": "2024-11-11 01:47:29 +0000"
     },
     "done": false
@@ -520,6 +564,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-04 04:15:45 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2024-11-18 23:20:15 +0000"
     },
     "done": true
   },
@@ -563,6 +613,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2024-11-11 01:49:23 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2024-11-18 22:50:40 +0000"
     },
     "done": true
   },
@@ -617,6 +673,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-11-18 22:29:28 +0000",
       "opened_chest": "2024-11-11 01:30:24 +0000"
     },
     "done": false
@@ -662,10 +719,25 @@
       "minecraft:skeleton": "2024-11-04 23:02:14 +0000",
       "minecraft:spider": "2024-11-04 04:16:08 +0000",
       "minecraft:creeper": "2024-11-04 23:46:16 +0000",
+      "minecraft:phantom": "2024-11-19 00:10:09 +0000",
       "minecraft:cave_spider": "2024-11-11 02:12:22 +0000",
-      "minecraft:zombie": "2024-11-11 01:30:36 +0000"
+      "minecraft:zombie": "2024-11-11 01:30:36 +0000",
+      "quark:foxhound": "2024-11-18 22:21:02 +0000",
+      "minecraft:zombie_villager": "2024-11-18 22:27:16 +0000"
     },
     "done": false
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-11-18 22:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-11-19 00:09:11 +0000"
+    },
+    "done": true
   },
   "mekanism:root": {
     "criteria": {
@@ -715,6 +787,18 @@
     },
     "done": true
   },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2024-11-18 22:30:19 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2024-11-18 22:50:43 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2024-11-04 04:15:45 +0000"
@@ -730,6 +814,12 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2024-11-04 04:15:45 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2024-11-18 23:48:48 +0000"
     },
     "done": true
   },
@@ -760,6 +850,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2024-11-04 04:15:45 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-11-18 23:11:07 +0000"
     },
     "done": true
   },
@@ -808,6 +904,18 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2024-11-04 04:15:45 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-11-18 22:29:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-11-19 00:10:19 +0000"
     },
     "done": true
   },
