@@ -2,9 +2,7 @@
 	id: "52663e9a-2460-362f-a5eb-ea99cb0d00e1"
 	type: "player"
 	player_name: "KingMcc"
-	ranks: {
-		52663e9a-2460-362f-a5eb-ea99cb0d00e1: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "KingMcc"
 		"ftbteams:description": ""

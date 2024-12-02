@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-11-23 21:34:33 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2024-11-17 04:29:13 +0000"
@@ -44,6 +50,12 @@
   "comforts:sleeping_bag_lime": {
     "criteria": {
       "has_the_recipe": "2024-11-08 23:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-11-23 21:45:18 +0000"
     },
     "done": true
   },
@@ -249,6 +261,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-11-08 23:34:25 +0000",
+      "chorus_fruit": "2024-11-23 22:03:43 +0000",
+      "apple": "2024-11-23 21:56:07 +0000",
       "bread": "2024-11-08 23:20:45 +0000",
       "golden_apple": "2024-11-09 01:29:45 +0000",
       "rotten_flesh": "2024-11-08 23:27:08 +0000",
@@ -284,6 +298,12 @@
   "casinocraft:recipes/misc/item_book": {
     "criteria": {
       "has_paper": "2024-11-09 01:20:11 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/obtain_netherite_iron_ingot": {
+    "criteria": {
+      "netherite_iron_ingot": "2024-11-23 21:31:39 +0000"
     },
     "done": true
   },
@@ -335,6 +355,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed": "2024-11-23 21:53:41 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2024-11-08 23:12:54 +0000"
@@ -344,6 +370,12 @@
   "comforts:hammock_light_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-08 23:12:54 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/netherite_gold_armor": {
+    "criteria": {
+      "netherite_gold_armor": "2024-11-23 22:35:58 +0000"
     },
     "done": true
   },
@@ -389,6 +421,18 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-11-23 21:54:39 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2024-11-23 21:41:32 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-11-08 23:12:54 +0000"
@@ -398,6 +442,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-11-09 01:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-11-23 21:53:11 +0000"
     },
     "done": true
   },
@@ -416,6 +466,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-11-08 23:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-11-23 21:50:54 +0000"
     },
     "done": true
   },
@@ -501,9 +557,14 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2024-11-08 23:17:30 +0000",
+      "shrubland": "2024-11-23 21:35:21 +0000",
       "scrubland": "2024-11-09 01:16:37 +0000",
       "old_growth_woodland": "2024-11-08 23:36:45 +0000",
+      "field": "2024-11-23 21:40:55 +0000",
       "mediterranean_forest": "2024-11-08 23:38:59 +0000",
+      "coniferous_forest": "2024-11-23 21:42:37 +0000",
+      "fir_clearing": "2024-11-23 21:43:53 +0000",
+      "grassland": "2024-11-23 21:40:12 +0000",
       "rainforest": "2024-11-09 01:21:50 +0000"
     },
     "done": false
@@ -522,6 +583,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-11-23 21:41:15 +0000",
       "minecraft:beach": "2024-11-08 23:17:26 +0000",
       "minecraft:lukewarm_ocean": "2024-11-08 23:36:33 +0000",
       "minecraft:river": "2024-11-08 23:14:42 +0000",
@@ -532,6 +594,12 @@
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-08 23:12:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-11-23 21:35:26 +0000"
     },
     "done": true
   },
@@ -697,14 +765,23 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-08 23:22:10 +0000",
+      "minecraft:spider": "2024-11-23 21:41:09 +0000",
       "minecraft:creeper": "2024-11-17 04:12:04 +0000",
       "minecraft:phantom": "2024-11-17 04:33:07 +0000",
       "minecraft:zombified_piglin": "2024-11-17 04:54:33 +0000",
       "minecraft:witch": "2024-11-17 04:24:35 +0000",
       "minecraft:wither_skeleton": "2024-11-09 01:28:27 +0000",
+      "minecraft:shulker": "2024-11-23 21:54:32 +0000",
+      "minecraft:enderman": "2024-11-23 21:46:02 +0000",
       "minecraft:zombie": "2024-11-08 23:26:27 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-11-23 21:45:18 +0000"
+    },
+    "done": true
   },
   "dungeons_arise:wda_root": {
     "criteria": {
@@ -859,6 +936,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2024-11-08 23:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2024-11-23 21:43:24 +0000"
     },
     "done": true
   },

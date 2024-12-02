@@ -152,9 +152,21 @@
     },
     "done": true
   },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2024-11-23 21:59:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2024-11-18 22:41:40 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:anvil": {
+    "criteria": {
+      "crafting_table": "2024-11-20 23:09:41 +0000"
     },
     "done": true
   },
@@ -179,6 +191,12 @@
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2024-11-18 22:56:25 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:house": {
+    "criteria": {
+      "crafting_table": "2024-11-23 22:34:19 +0000"
     },
     "done": true
   },
@@ -245,6 +263,18 @@
     },
     "done": true
   },
+  "endrem:main/undead_eye_recipe": {
+    "criteria": {
+      "soul": "2024-11-20 23:54:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2024-11-23 21:53:42 +0000"
+    },
+    "done": true
+  },
   "mekanism:infusing_efficiency": {
     "criteria": {
       "enriched_material": "2024-11-19 16:05:20 +0000"
@@ -302,6 +332,12 @@
   "mekanismtools:not_enough_shielding": {
     "criteria": {
       "shields": "2024-11-19 16:20:34 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2024-11-20 23:24:33 +0000"
     },
     "done": true
   },
@@ -384,6 +420,7 @@
       "scrubland": "2024-11-04 21:49:35 +0000",
       "floodplain": "2024-11-07 03:58:48 +0000",
       "lush_savanna": "2024-11-07 03:56:53 +0000",
+      "cold_desert": "2024-11-20 23:14:32 +0000",
       "old_growth_woodland": "2024-11-04 21:20:25 +0000",
       "wooded_scrubland": "2024-11-07 03:36:14 +0000",
       "field": "2024-11-11 04:56:13 +0000",
@@ -558,9 +595,21 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-11-23 21:47:39 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2024-11-11 04:03:36 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-11-23 22:48:55 +0000"
     },
     "done": true
   },
@@ -576,6 +625,7 @@
       "minecraft:pillager": "2024-11-11 03:58:44 +0000",
       "minecraft:skeleton": "2024-11-04 21:06:54 +0000",
       "minecraft:ghast": "2024-11-18 22:25:06 +0000",
+      "minecraft:guardian": "2024-11-20 23:06:22 +0000",
       "minecraft:vindicator": "2024-11-11 04:03:27 +0000",
       "minecraft:magma_cube": "2024-11-18 22:28:16 +0000",
       "minecraft:spider": "2024-11-04 01:03:34 +0000",
@@ -586,12 +636,15 @@
       "minecraft:witch": "2024-11-07 04:00:57 +0000",
       "minecraft:wither_skeleton": "2024-11-11 04:22:43 +0000",
       "minecraft:husk": "2024-11-11 04:03:20 +0000",
+      "minecraft:ender_dragon": "2024-11-23 21:47:39 +0000",
+      "minecraft:shulker": "2024-11-23 21:54:36 +0000",
       "minecraft:cave_spider": "2024-11-07 02:01:46 +0000",
       "minecraft:piglin": "2024-11-08 23:32:57 +0000",
       "minecraft:enderman": "2024-11-07 00:36:17 +0000",
       "minecraft:zombie": "2024-11-04 21:08:03 +0000",
       "quark:foxhound": "2024-11-08 23:32:28 +0000",
-      "minecraft:drowned": "2024-11-07 01:04:17 +0000"
+      "minecraft:drowned": "2024-11-07 01:04:17 +0000",
+      "minecraft:zombie_villager": "2024-11-23 21:40:23 +0000"
     },
     "done": false
   },
@@ -628,6 +681,12 @@
   "mekanism:injection_chamber": {
     "criteria": {
       "chemical_injection_chamber": "2024-11-19 16:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-11-23 20:58:55 +0000"
     },
     "done": true
   },
@@ -739,6 +798,12 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2024-11-23 21:44:40 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2024-11-03 22:19:55 +0000"
@@ -748,6 +813,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2024-11-07 01:05:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2024-11-23 21:43:02 +0000"
     },
     "done": true
   },
@@ -788,6 +859,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-11-21 01:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-11-23 21:45:15 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2024-11-07 03:59:02 +0000"
@@ -800,9 +883,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2024-11-21 02:04:58 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-03 22:19:55 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/evil_eye": {
+    "criteria": {
+      "evil_eye": "2024-11-23 21:44:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2024-11-23 22:03:18 +0000"
     },
     "done": true
   },
@@ -914,6 +1015,12 @@
     },
     "done": true
   },
+  "quark:tame_foxhound": {
+    "criteria": {
+      "tame_foxhound": "2024-11-23 22:23:20 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2024-11-03 22:19:56 +0000"
@@ -986,6 +1093,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/transmutation_table": {
+    "criteria": {
+      "sopa_de_macaco": "2024-11-23 20:32:50 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-11-04 20:14:14 +0000"
@@ -1028,6 +1141,12 @@
     },
     "done": true
   },
+  "inventorypets:10": {
+    "criteria": {
+      "example": "2024-11-20 23:09:41 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2024-11-03 22:19:55 +0000"
@@ -1043,6 +1162,12 @@
   "endrem:main/rogue_eye": {
     "criteria": {
       "rogue_eye": "2024-11-04 22:04:55 +0000"
+    },
+    "done": true
+  },
+  "dimstorage:dimensional_tank": {
+    "criteria": {
+      "inv_changed": "2024-11-21 04:19:15 +0000"
     },
     "done": true
   },
@@ -1067,6 +1192,12 @@
   "mekanismtools:paxel": {
     "criteria": {
       "any_paxel": "2024-11-04 21:13:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed": "2024-11-23 22:03:12 +0000"
     },
     "done": true
   },
@@ -1154,6 +1285,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-11-23 21:53:12 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2024-11-03 22:19:55 +0000"
@@ -1178,6 +1315,12 @@
     },
     "done": true
   },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2024-11-23 21:44:21 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-11-03 22:19:55 +0000"
@@ -1187,6 +1330,12 @@
   "casinocraft:recipes/decorations/item_quartz": {
     "criteria": {
       "has_quartz": "2024-11-08 23:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-11-23 21:50:57 +0000"
     },
     "done": true
   },
@@ -1218,6 +1367,12 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-11-07 00:13:45 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:brewingstand": {
+    "criteria": {
+      "crafting_table": "2024-11-20 23:08:32 +0000"
     },
     "done": true
   },
@@ -1278,19 +1433,38 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-11-11 04:57:11 +0000",
+      "minecraft:deep_ocean": "2024-11-20 22:54:34 +0000",
+      "minecraft:frozen_river": "2024-11-20 23:18:20 +0000",
       "minecraft:savanna_plateau": "2024-11-07 03:36:41 +0000",
       "minecraft:beach": "2024-11-03 22:23:16 +0000",
       "minecraft:sparse_jungle": "2024-11-07 00:48:12 +0000",
       "minecraft:river": "2024-11-04 01:06:42 +0000",
       "minecraft:lukewarm_ocean": "2024-11-04 21:18:43 +0000",
+      "minecraft:snowy_plains": "2024-11-20 23:14:49 +0000",
+      "minecraft:stony_shore": "2024-11-20 23:23:20 +0000",
       "minecraft:snowy_taiga": "2024-11-03 22:36:46 +0000",
+      "minecraft:cold_ocean": "2024-11-20 23:07:24 +0000",
       "minecraft:forest": "2024-11-03 22:19:56 +0000",
+      "minecraft:lush_caves": "2024-11-23 22:48:55 +0000",
+      "minecraft:deep_cold_ocean": "2024-11-20 23:07:52 +0000",
+      "minecraft:ice_spikes": "2024-11-20 23:21:07 +0000",
+      "minecraft:frozen_ocean": "2024-11-20 23:08:10 +0000",
       "minecraft:desert": "2024-11-07 03:53:19 +0000",
+      "minecraft:deep_frozen_ocean": "2024-11-20 23:08:22 +0000",
       "minecraft:ocean": "2024-11-07 03:10:49 +0000",
+      "minecraft:snowy_beach": "2024-11-20 23:15:19 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-11-23 22:47:24 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-11-20 23:19:30 +0000",
       "minecraft:savanna": "2024-11-04 21:44:59 +0000",
       "minecraft:plains": "2024-11-07 01:21:20 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2024-11-22 16:41:47 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_blue_from_white": {
     "criteria": {
@@ -1301,6 +1475,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-03 22:19:55 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/witch_eye": {
+    "criteria": {
+      "witch_eye": "2024-11-23 21:45:07 +0000"
     },
     "done": true
   },
@@ -1359,6 +1539,12 @@
     },
     "done": true
   },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2024-11-23 21:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-11-08 23:45:26 +0000"
@@ -1378,6 +1564,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-11-20 23:28:36 +0000"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2024-11-03 22:19:55 +0000"
@@ -1387,6 +1579,12 @@
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-03 22:19:55 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/guardian_eye": {
+    "criteria": {
+      "guardian_eye": "2024-11-23 21:44:48 +0000"
     },
     "done": true
   },
@@ -1408,15 +1606,39 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2024-11-23 21:48:37 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-03 22:19:55 +0000"
     },
     "done": true
   },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2024-11-23 21:44:22 +0000"
+    },
+    "done": true
+  },
   "monsters_and_girls:monsters_and_girls_update": {
     "criteria": {
       "monsters_and_girls_update": "2024-11-03 22:19:55 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-11-23 21:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-11-23 21:45:15 +0000"
     },
     "done": true
   },
@@ -1482,6 +1704,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-11-20 23:28:36 +0000",
       "minecraft:soul_sand_valley": "2024-11-04 20:24:24 +0000",
       "minecraft:nether_wastes": "2024-11-07 01:17:34 +0000"
     },
@@ -1505,9 +1728,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/farseer": {
+    "criteria": {
+      "killed_by": "2024-11-21 03:08:10 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2024-11-03 22:19:55 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/exotic_eye": {
+    "criteria": {
+      "exotic_eye": "2024-11-23 21:45:08 +0000"
     },
     "done": true
   },
@@ -1520,6 +1755,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-11-04 22:02:42 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2024-11-23 21:44:24 +0000"
     },
     "done": true
   },
